@@ -2,12 +2,12 @@
 order: 6
 toAdminister: Azure Az PowerShell
 name: Az
-stableVersion: 7.1.0
+stableVersion: 9.7.1
 previewVersion: N/A
 howToInstallPre: >
   N/A
 howToConnect: >
   ```Connect-AzAccount```
-  [More methods](https://docs.microsoft.com/en-us/powershell/module/az.accounts/connect-azaccount)
+  [More methods](https://docs.microsoft.com/en-us/powershell/module/az.accounts/connect-azaccount?WT.mc_id=M365-MVP-5004663)
 PS7: "Yes"
 ---

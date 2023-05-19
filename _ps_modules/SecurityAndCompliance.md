@@ -2,12 +2,12 @@
 order: 2
 toAdminister: Security & Compliance
 name: ExchangeOnlineManagement
-stableVersion: 2.0.5
-previewVersion: 2.0.6-Preview3
+stableVersion: 3.1.0
+previewVersion: 3.2.0-Preview3
 howToInstallPre: >
-  ```Install-Module  -Name ExchangeOnlineManagement -RequiredVersion 2.0.6-Preview3 -AllowPrerelease```
+  ```Install-Module  -Name ExchangeOnlineManagement -RequiredVersion 2.0.6-Preview5 -AllowPrerelease```
 howToConnect: >
   ```Connect-IPPSSession```
-  [More methods](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell?view=exchange-ps)
+  [More methods](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell?view=exchange-ps?WT.mc_id=M365-MVP-5004663)
 PS7: "Yes"
 ---
